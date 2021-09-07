@@ -1,5 +1,5 @@
 # README
-This is my portfolio of CMU course ---- 94870 Telling Stories with Data
+This is my portfolio for CMU course ---- 94870 Telling Stories with Data
 
 
 # About me
@@ -11,6 +11,8 @@ I have discovered my weakness of data interpreting in my previous internships. A
 
 
 # Portfolio
-Assignments and final project
+# Assignment
+
+# Final project
 
 
