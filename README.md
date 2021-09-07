@@ -12,6 +12,7 @@ I have discovered my weakness of data interpreting in my previous internships. A
 
 # Portfolio
 # Assignment
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205624"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Final project
 
