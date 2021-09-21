@@ -46,9 +46,9 @@ Here are the questions and their answers:
 
 - What do you see and capture at first sight? What is this chart about?
 
-Answer1: It is the positive COVID cases in CMU, but I find it confusing in the sense that you do not specify CMU or COVID in either your title or your label.
+>Answer1: It is the positive COVID cases in CMU, but I find it confusing in the sense that you do not specify CMU or COVID in either your title or your label.
 
-Answer2: It is how the number of COVID cases are changing over time.
+>Answer2: It is how the number of COVID cases are changing over time.
 
 - What do you think is the target audience?
 
@@ -60,4 +60,16 @@ Answer2: It is how the number of COVID cases are changing over time.
 
 >Answer1: The title is not clear enough, and you should change it.
 
->Answer2: 
+>Answer2: The numbers inside the bars are not clear to me, I have difficulty reading them.
+
+- Are there any places you find me doing well or bad?
+
+>Answer1: I like the way you choose colors and it is clear that how the positive cases numbers of students and faculties on campus are changing.
+
+>Answer2: I like the way you use stacked line graph because it is clear and simple. But I think you should add the reference lines to the line chart for us to see what exactly is the level of total positive numbers.
+
+# Recreating
+
+After carefully examining on suggestions from the interviewees, I have finished my final data visualization graph:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7314952"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
