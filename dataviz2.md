@@ -72,4 +72,13 @@ Here are the questions and their answers:
 
 After carefully examining on suggestions from the interviewees, I have finished my final data visualization graph:
 
+## The by week Running COVID Positive Cases of CMU Community
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7314952"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## The by month Running COVID Positive Cases of CMU Community
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7315140"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
