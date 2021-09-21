@@ -80,5 +80,14 @@ After carefully examining on suggestions from the interviewees, I have finished 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7315140"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Thanks to my friends, there are few things that I changed in my final visualization graph. 
+
+First, I changed my title into a more precise and accurate one, by stating the purpose and audience of the visualization graph. Second, I also changed the format of my date labels in the by week chart from time period to the beginning date of the week in order to reduce the unnecessary information. Also, the color for the number of the bars are changed from black into white so that no confusion will be created.
+
+Second, I maintain using the stacked line graph since it received positive feedback from my friends. I added reference lines into the line chart so that we can see clearly what the numbers are for each category and for the total number of cases. Since readers tend to read from top to down, and from left to right, I put all the emphasized categories which are the positive cases of students and faculties on campus on either top or left of the chart, so that readers can see the most important numbers they want to see at first glance. I did not put number labels on dots for the second chart since there are too many dots in the stacked line chart and labels may create a complex visual effect. Thanks to flourish.studio, readers can interact with the graph by moving into the dots and see the exact numbers of each month.
+
+All in all, the revised data visualization from the original charts to the final charts has clearly reduced the readers' burden of understanding the charts, and hopefully it can also arise the epidemic prevention awareness of the potential readers and contribute to the overall epidemic prevention of the CMU community.
+
+
 
 
