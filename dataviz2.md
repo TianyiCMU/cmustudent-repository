@@ -45,3 +45,19 @@ In this part, I invited two friends of mine to take a look at my wireframing vis
 Here are the questions and their answers:
 
 - What do you see and capture at first sight? What is this chart about?
+
+Answer1: It is the positive COVID cases in CMU, but I find it confusing in the sense that you do not specify CMU or COVID in either your title or your label.
+
+Answer2: It is how the number of COVID cases are changing over time.
+
+- What do you think is the target audience?
+
+>Answer1: It should be Students and Faculties.
+
+>Answer2: It should be people inside the CMU community.
+
+- Are there any places you find awkward or confusing?
+
+>Answer1: The title is not clear enough, and you should change it.
+
+>Answer2: 
