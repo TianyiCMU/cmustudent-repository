@@ -14,7 +14,7 @@ I have discovered my weakness of data interpreting in my previous internships. A
 
 # Assignment
 [my data visualization homework 1](/dataviz1.md)
-
+[my data visualization homework 2](/dataviz2.md)
 
 # In-Class Exercises
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205624"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
