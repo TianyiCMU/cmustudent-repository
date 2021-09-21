@@ -14,6 +14,7 @@ I have discovered my weakness of data interpreting in my previous internships. A
 
 # Assignment
 [my data visualization homework 1](/dataviz1.md)
+
 [my data visualization homework 2](/dataviz2.md)
 
 # In-Class Exercises
