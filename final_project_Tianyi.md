@@ -21,7 +21,7 @@ Finally, I will present our previous successful cases to our readers. No worries
 
 In the end, I want my readers to action today, by contacting our salesperson for detailed information about our business cases and services.
 
-# Sketchers
+# Sketches
 First, I used a pyramid to illustrate different levels of IT development that I learnt from my past internships and classes. I will use different shades of blues from bottom to the top to show that there is an increasing level of intelligence from basic IT infrastructures to higher level of business predictions using advanced technologies.
 ![微信图片_20210927233259](https://user-images.githubusercontent.com/90215938/135018879-153c6ea8-e770-4f27-af5b-fbc9fd185cc3.jpg)
 
