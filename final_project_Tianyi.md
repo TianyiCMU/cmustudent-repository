@@ -42,16 +42,23 @@ Finally, to complete my story, I want my readers to go back to the first chart o
 For the first data visualization, I simply use the idea from my past experiences to create the pyramid chart. The content may be derived from various concepts but the idea is original.
 
 For the second graph, I combine the sources of Techvera and a report from Deloitte Consulting. The sources are listed below:
+
 https://techvera.com/how-much-should-a-company-spend-on-it/
+
 https://www.computereconomics.com/article.cfm?id=2626
+
 https://www2.deloitte.com/us/en/insights/focus/cio-insider-business-insights/tech-finance-technology-investment-budgeting-processes.html
 
 For the third bubble chart, I combine the sources of McKinsey's Digitalization Index and reports from the Internet:
+
 https://www.flexera.com/blog/technology-value-optimization/it-spending-by-industry/
+
 https://www.computereconomics.com/article.cfm?id=2626
+
 https://www.researchgate.net/figure/McKinsey-Global-Institute-industry-digitization-index-201513_fig1_336150205
 
 For the fourth graph, I use the existing source of a survey:
+
 https://www.telekom.com/en/media/media-information/archive/digitization-index-for-businesses-corona-accelerates-digitization-in-medium-sized-businesses-613546
 
 For the fifth graph, it is a replica of the first pyramid chart. Since the consulting company is fictional, the potential boost in revenue of clients is also fictional, so I just make up the data and will try to enrich the data using cases of other consulting companies if required.
