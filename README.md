@@ -17,7 +17,9 @@ I have discovered my weakness of data interpreting in my previous internships. A
 
 [my data visualization homework 2](/dataviz2.md)
 
-[my final project](/final_project_Tianyi.md)
+[my final project (part 1)](/final_project_1_Tianyi.md)
+
+[my final project (part 2)](/final_project_2_Tianyi.md)
 
 # In-Class Exercises
 
