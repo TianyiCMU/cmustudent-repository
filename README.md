@@ -21,6 +21,8 @@ I have discovered my weakness of data interpreting in my previous internships. A
 
 [my final project (part 2)](/final_project_2_Tianyi.md)
 
+[my final project (part 3)](/final_project_3_Tianyi.md)
+
 # In-Class Exercises
 
 
