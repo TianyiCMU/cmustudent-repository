@@ -2,7 +2,9 @@
 
 [back to my homepage](/README.md)
 
+# Final presentation using Shorthand
 
+[Final Presentation](/https://preview.shorthand.com/05JkPtfPggjpVJFQ)
 
 # Links to part 1 & 2 of the final project
 
